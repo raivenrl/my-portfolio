@@ -70,7 +70,7 @@ export default function HomePage() {
                   </button>
                   
                   <a
-                    href="/Raiven_CV.pdf"
+                    href="/RaivenL_CV.pdf"
                     download
                     className="px-8 py-3 rounded-md border border-white text-white font-bold hover:bg-white hover:text-black transition-all active:scale-95"
                   >
